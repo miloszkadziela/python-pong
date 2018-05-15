@@ -1,7 +1,7 @@
 # Pong created in Python by Milosz Kadziela
 
 ## Description:
-This is my version of a popular game Pong. The aim of the game is currently to bounce the ball as many times as possible with your paddle. The paddle can by moved using arrow keys (LEFT and RIGHT)
+This is my version of a popular game Pong. The aim of the game is currently to bounce the ball as many times as possible with your paddle.
 
 ## Screenshot of the game:
 ![Pong gameplay](README_assets/pong-gameplay.png "Pong Game")
